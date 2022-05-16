@@ -1,0 +1,6 @@
+POST http://localhost:5050/signup
+
+{
+  "email": "john@doe.com",
+  "password": "345yt0r3m3mb3r"
+}

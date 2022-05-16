@@ -1,0 +1,6 @@
+PUT http://localhost:5050/posts/296xqz773X37kDQvHhiA8pJf0lQ
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTI0NTEwMTIsInVzZXJJZCI6IjI5NEkzc042SlVCczNEUXl3WnJQZzFPQUFJdyJ9.w73EBwE7Ahvx2qCn4wkh9uFfG00_wIyuoGlvghmQCes
+
+{
+  "postContent": "Otro contenido para mi post editado"
+}

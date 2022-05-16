@@ -1,0 +1,7 @@
+#  docker build . -f Dockerfile.postgres -t go-platzi-postgres
+
+FROM postgres:10.3
+
+COPY migrations/1.sql /docker-entrypoint-initdb.d/1.sql
+
+CMD ["postgres"]
